@@ -1,0 +1,16 @@
+﻿  PatternRec.cpp
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(33,72): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(47,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(75,1): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(110,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\PatternRec\PatternRec.cpp(304,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PatternRec.vcxproj -> C:\Users\PeeWee\Desktop\CPP\CPP\PatternRec\Debug\PatternRec.exe
